@@ -1,4 +1,4 @@
-package ConstructorAndModifiers.level2;
+package Java_Constructors.Level_2;
 
 class Book {
     public String ISBN;

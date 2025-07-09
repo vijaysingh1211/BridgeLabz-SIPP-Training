@@ -1,4 +1,4 @@
-package ConstructorAndModifiers.level1;
+package Java_Constructors.Level_1;
 
 public class Product {
     String productName;

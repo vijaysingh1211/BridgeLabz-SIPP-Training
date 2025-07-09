@@ -1,6 +1,6 @@
 abstract class BankAccount {
     private String accountNumber, holderName;
-    private double balance;
+    protected double balance;
 
     public BankAccount(String accNo, String name, double balance) {
         this.accountNumber = accNo;

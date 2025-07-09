@@ -1,4 +1,4 @@
-package Inheritance.level1;
+package Inheritance;
 
 class Book {
     protected String title;
