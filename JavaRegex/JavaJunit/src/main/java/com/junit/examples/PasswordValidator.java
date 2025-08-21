@@ -9,7 +9,7 @@ public class PasswordValidator {
             return false;
         }
         
-        // At least 6 characters, one uppercase, one digit
+        
         String regex = "^(?=.*[A-Z])(?=.*\\d).{6,}$";
         return Pattern.matches(regex, password);
     }
